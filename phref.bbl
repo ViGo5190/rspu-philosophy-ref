@@ -41,4 +41,11 @@
 A~L.~G. Dictionnairie de l’informatique.
 \newblock Paris: Presses Universitaires de France, 1982.{}
 
+\bibitem{bib203}
+\selectlanguageifdefined{russian}
+Большая советская энциклопедия.
+\newblock 3 {изд.}
+\newblock М.: Советская энциклопедия, 1972.
+\newblock Т.~10.{}
+
 \end{thebibliography}
