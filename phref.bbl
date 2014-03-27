@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 \def\selectlanguageifdefined#1{
 \expandafter\ifx\csname date#1\endcsname\relax
 \else\language\csname l@#1\endcsname\fi}
@@ -47,5 +47,33 @@ A~L.~G. Dictionnairie de l’informatique.
 \newblock 3 {изд.}
 \newblock М.: Советская энциклопедия, 1972.
 \newblock Т.~10.{}
+
+\bibitem{bib204}
+\selectlanguageifdefined{russian}
+Михайлов А.И., Черный А.И., Гиляревский Р.С.
+  Основы информатики.
+\newblock М.: Наука, 1968.{}
+
+\bibitem{bib205}
+\selectlanguageifdefined{russian}
+Инфосфера: информационные структуры,
+  системы и процессы в науке и обществе~/
+  ~Арский~Ю.М., ~Гиляревский~Р.С., ~Туров~И.С.
+  {[и~др.]}.
+\newblock М.: ВИНИТИ, 1996.{}
+
+\bibitem{bib206}
+\selectlanguageifdefined{russian}
+Гиляревский Р.С. Информатика как наука об
+  информации. (Наст. сборник).{}
+
+\bibitem{bib207}
+\selectlanguageifdefined{russian}
+Соколов А.В., Манкевич А.И. . Информатика в
+  перспективе: к вопросу о классификации
+  видов информации и системе наук
+  коммуникационного цикла. //
+  Научно-техническая информация. 10 {№}~2.
+\newblock 1971.{}
 
 \end{thebibliography}
