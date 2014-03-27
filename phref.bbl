@@ -1,0 +1,44 @@
+\begin{thebibliography}{1}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{(#1)}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+
+\bibitem{bib102}
+\selectlanguageifdefined{russian}
+История развития информатики.
+\newblock \url{http://inf1.info/informaticshistory}.
+\newblock 2011.  02.{}
+
+\bibitem{bib201}
+\selectlanguageifdefined{russian}
+Колин К.К. Становление информатики как
+  фундаментальной науки и комплексной
+  научной проблемы. Сб. н. тр. //Системы и
+  средства информатики. Спец. вып.
+  Научно-методологические проблемы
+  информатики.
+\newblock М.: ИПИ РАН, 2006.{}
+
+\bibitem{bib103}
+\selectlanguageifdefined{russian}
+Информация и общественное развитие.
+\newblock \url{http://goo.gl/I8MhHk}.
+\newblock 2011.{}
+
+\bibitem{bib104}
+\selectlanguageifdefined{russian}
+Информация и общественное развитие -
+  книгопечатание.
+\newblock \url{http://goo.gl/4MWcOK}.
+\newblock 2011.  05.{}
+
+\bibitem{bib202}
+\selectlanguageifdefined{english}
+A~L.~G. Dictionnairie de l’informatique.
+\newblock Paris: Presses Universitaires de France, 1982.{}
+
+\end{thebibliography}
