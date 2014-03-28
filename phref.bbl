@@ -169,4 +169,11 @@ A~L.~G. Dictionnairie de l’informatique.
 \newblock М.: Изд-во РАГС, 2007.
 \newblock {С.}~8--22.{}
 
+\bibitem{bib215}
+\selectlanguageifdefined{russian}
+Понятие информатизации. Роль
+  информатизации в развитии общества.
+\newblock \url{http://goo.gl/Feva5S}.
+\newblock 2011.{}
+
 \end{thebibliography}
